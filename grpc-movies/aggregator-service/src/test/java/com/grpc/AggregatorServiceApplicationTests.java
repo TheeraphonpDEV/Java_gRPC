@@ -1,4 +1,4 @@
-package com.tpgitz.aggregatorservice;
+package com.grpc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

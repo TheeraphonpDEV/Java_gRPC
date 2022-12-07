@@ -1,4 +1,4 @@
-package com.tpgitz.aggregatorservice;
+package com.grpc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
